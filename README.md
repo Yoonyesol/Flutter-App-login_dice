@@ -44,6 +44,7 @@ Image.asset('image/dice$rightDice.png')
 * `Column`과 `Row` 위젯에서의 `mainAxisAlignment:MainAxisAlignment.center` 사용법을 다시 한 번 체득했다. 
 * 이미지 파일명을 변수처리하여 상태값을 변화시키는 방법을 알게 되었다. (`$`기호 사용법)
 * `pubspec.yaml`파일에 `fluttertoast`라이브러리를 등록하면서 발생한 오류를 공식문서를 찾아보며 해결하였다.
+* 참고한 강좌의 flutter 위젯 중 지원되지 않는 위젯은 역시 공식문서를 찾아가며 수정하여 코드를 실행시켰다.
 * 추가로 git 사용법, mark down 사용법도 익혀가는 중
 
 
