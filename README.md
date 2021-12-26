@@ -13,7 +13,6 @@ Flutter-App-login_dice
 Navigator.push(context, 
     MaterialPageRoute(builder: (BuildContext context) => Dice()));
 ```
-![Animation](https://user-images.githubusercontent.com/51500821/147415934-b8589e0b-b409-486b-bed8-e3540a9fb41a.gif)
 
 
 <br/><br/>
