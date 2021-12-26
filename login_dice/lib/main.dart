@@ -46,7 +46,9 @@ class _LogInState extends State<LogIn> {
       body: Builder(
         builder:(context) {
           return GestureDetector( //사용자의 제스처 감지
-            onTap: ,
+            onTap: (){//버튼 포함 다양한 이벤트 구현
+              FocusScope.of(context).unfocus(); //화면의 빈 곳을 터치하면 키보드가 사라짐
+            },
             child: SingleChildScrollView(  //bottom overflowed by pixels 문제 해결
             child: Column(
               children: [
