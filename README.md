@@ -32,7 +32,7 @@ Image.asset('image/dice$leftDice.png')
 ```
 Image.asset('image/dice$rightDice.png')
 ```
-* 부여된 랜덤번호를 토스트 메시지로 출력처리
+* 부여된 랜덤번호를 토스트 메시지로 출력처리</>
 ![Animation3](https://user-images.githubusercontent.com/51500821/147416223-1fb9c0e8-edfb-45b0-801a-5f185e692673.gif)
 
 
