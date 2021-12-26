@@ -33,10 +33,19 @@ Image.asset('image/dice$rightDice.png')
 * 부여된 랜덤번호를 토스트 메시지로 출력처리
 
 
+<br/><br/>
+## ☺새로 학습한 내용
+* `TextField`의 내용을 `Controller`로 처리하는 방법을 익혔다.
+* `Column`과 `Row` 위젯에서의 `mainAxisAlignment:MainAxisAlignment.center` 사용법을 다시 한 번 체득했다. 
+* 이미지 파일명을 변수처리하여 상태값을 변화시키는 방법을 알게 되었다. (`$`기호 사용법)
+* `pubspec.yaml`파일에 `fluttertoast`라이브러리를 등록하면서 발생한 오류를 공식문서를 찾아보며 해결하였다.
+* 추가로 git 사용법, mark down 사용법도 익혀가는 중
+
+
 
 </br></br>
 ## 코드 원문 출처
-코딩셰프 주사위 만들기
+<코딩셰프> 주사위 만들기 강좌 </br>
 <https://www.youtube.com/playlist?list=PLQt_pzi-LLfoOpp3b-pnnLXgYpiFEftLB> 
 
 
