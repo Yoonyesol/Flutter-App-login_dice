@@ -34,7 +34,7 @@ Image.asset('image/dice$rightDice.png')
 ```
 * 부여된 랜덤번호를 토스트 메시지로 출력처리
 
-![Animation3](https://user-images.githubusercontent.com/51500821/147416223-1fb9c0e8-edfb-45b0-801a-5f185e692673.gif)
+![Animation](https://user-images.githubusercontent.com/51500821/147416328-73a54d37-219a-481a-beae-d19b351e5dee.gif)
 
 
 
